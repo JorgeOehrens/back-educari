@@ -77,6 +77,7 @@ def supervisar_chat_de_clase(request: SupervisarClaseRequest):
         clase=request.clase_generada
     )
 
+
 # {
 #   "messages": [
 #     {
